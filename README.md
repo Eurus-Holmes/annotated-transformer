@@ -1,3 +1,2 @@
-Code for The Annotated Transformer blog post:
-
-http://nlp.seas.harvard.edu/2018/04/03/attention.html
+  - [Code for The Annotated Transformer blog post](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+  - [Code for The Annotated Transformer blog post (Chinese Version)](https://www.jiqizhixin.com/articles/Synced-github-implement-project-machine-translation-by-transformer)
